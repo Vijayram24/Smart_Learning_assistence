@@ -26,14 +26,14 @@ A voice- and text-based AI assistant powered by Google Gemini, built using Pytho
 - `dotenv` to securely store your API key
 
 ---
+
 ## 📽️ Demo Video
 
 ▶️ Watch the assistant in action:  
-[![Vijay's Learning Assistant - Demo]()
+[![Vijay's Learning Assistant - Demo](https://img.icons8.com/color/480/youtube-play.png)](https://drive.google.com/file/d/1hHXG37jXOfnb3XJPAMBBWLXM9C2Jj4-f/view?usp=drivesdk)
 
-> If the image doesn't load, [click here to watch the demo video]((https://drive.google.com/file/d/1hHXG37jXOfnb3XJPAMBBWLXM9C2Jj4-f/view?usp=drivesdk ))
+> If the image doesn't load, [click here to watch the demo video](https://drive.google.com/file/d/1hHXG37jXOfnb3XJPAMBBWLXM9C2Jj4-f/view?usp=drivesdk)
 
----
 ## 📦 Installation
 
 1. **Clone this repo**
