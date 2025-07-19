@@ -30,7 +30,7 @@ A voice- and text-based AI assistant powered by Google Gemini, built using Pytho
 ## 📽️ Demo Video
 
 ▶️ Watch the assistant in action:  
-[![Vijay's Learning Assistant - Demo](https://img.icons8.com/color/480/youtube-play.png)](https://drive.google.com/file/d/1hHXG37jXOfnb3XJPAMBBWLXM9C2Jj4-f/view?usp=drivesdk)
+[![Vijay's Learning Assistant - Demo]
 
 > If the image doesn't load, [click here to watch the demo video](https://drive.google.com/file/d/1hHXG37jXOfnb3XJPAMBBWLXM9C2Jj4-f/view?usp=drivesdk)
 
